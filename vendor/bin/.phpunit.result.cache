@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"LibrosTest::testConexionOK":0.011,"LibrosTest::testConexionKO":0.008,"LibrosTest::testConsultarAutores":0.005,"LibrosTest::testConsultarLibros":0.015,"LibrosTest::testConsultarDatosLibro":0.013,"LibrosTest::testBorrarLibro":0.02,"LibrosTest::testBorrarAutor":0.008}}

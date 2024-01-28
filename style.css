@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(106, 199, 232);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20%;
+}
+
+header {
+    padding-top: 25px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #035891;
+    font-weight: bolder;
+}
+
+nav {
+    display: list-item;
+    background-position: left;
+    width: auto;
+    padding: 5px;
+}
+
+#menu {
+    display: list-item;
+    color: black;
+    width: 10%;
+    text-align: left;
+    list-style: none;
+    margin-bottom: 5px;
+    margin-left: 3%;
+}
+
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+#cuerpo {
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+fieldset {
+    width: 25%;
+}
